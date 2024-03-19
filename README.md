@@ -2,15 +2,11 @@
 
 ###
 
-<p align="left">👋 Welcome to my GitHub! 🚀<br><br>I'm a passionate MERN full stack developer with a strong drive to create innovative and scalable web applications. My journey in the world of code has led me to a diverse range of projects, each contributing to my growing expertise.<br><br>🌟 My Skill Set:<br>- MySQL 💎<br>- MongoDB 📊<br>- Express 🚀<br>- ReactJS ⚛️<br>- NextJS 🌈<br>- NodeJS 🚆<br>- JavaScript (ES6+) 💡<br><br>💼 Project Portfolio:<br>Over time, I've had the privilege of working on numerous projects, including e-commerce platforms, data-driven dashboards, and more. Each project has been an exciting opportunity to explore new technologies and solve real-world problems.<br><br>🔍 Problem-Solver Extraordinaire:<br>I take pride in my strong analytical and problem-solving skills. These skills have proven invaluable in identifying and resolving issues quickly and effectively.<br><br>💪 Continuous Learner:<br>As a self-motivated individual, I'm always on the lookout for opportunities to enhance my skills and stay up-to-date with the latest developments in the tech world.<br><br>Feel free to explore my repositories, and don't hesitate to connect with me. Let's collaborate and build something amazing together! 🌐🛠️<br><br>#FullStackDeveloper #MERN #WebDevelopment #ProblemSolver #ContinuousLearner</p>
+<p align="left">👋 Welcome to my GitHub! 🚀<br><br>I'm a passionate MERN full stack developer with a strong drive to create innovative and scalable web applications. My journey in the world of code has led me to a diverse range of projects, each contributing to my growing expertise.<br><br>🌟 My Skill Set:<br>- MongoDB 📊<br>- Express 🚀<br>- ReactJS ⚛️<br>- NodeJS 🚆<br>- JavaScript (ES6+) 💡<br><br>💼 Project Portfolio:<br>Over time, I've had the privilege of working on numerous projects, including e-commerce platforms, data-driven dashboards, and more. Each project has been an exciting opportunity to explore new technologies and solve real-world problems.<br><br>🔍 Problem-Solver Extraordinaire:<br>I take pride in my strong analytical and problem-solving skills. These skills have proven invaluable in identifying and resolving issues quickly and effectively.<br><br>💪 Continuous Learner:<br>As a self-motivated individual, I'm always on the lookout for opportunities to enhance my skills and stay up-to-date with the latest developments in the tech world.<br><br>Feel free to explore my repositories, and don't hesitate to connect with me. Let's collaborate and build something amazing together! 🌐🛠️<br><br>#FullStackDeveloper #MERN #WebDevelopment #ProblemSolver #ContinuousLearner</p>
 
 ###
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
